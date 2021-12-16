@@ -1,2 +1,0 @@
-﻿46647
-/home/emily/Documents/Godot-Mono/Godot_v3.4-stable_mono_x11.64
